@@ -1,3 +1,6 @@
+# 📸 Project View
+![ProjectView-K10](https://github.com/user-attachments/assets/b7741a71-f61f-44f2-a15c-03aae92f1f1b)
+
 # Windows Form Login Project
 A simple Windows Form application built in C# to practice basic login functionality using if conditions. This is a beginner-level training project to explore C# and Windows Forms in .NET Framework.
 
@@ -7,10 +10,10 @@ This project is a basic login form created as a learning exercise. It uses a Win
 # What is Windows Forms?
 Windows Forms (WinForms) is a graphical user interface (GUI) framework provided by Microsoft as part of the .NET Framework. It allows developers to create desktop applications with windows, buttons, text boxes, and other controls. WinForms is event-driven, meaning it responds to user actions like clicks or key presses, making it great for beginners to build interactive apps.
 
-# What is C#?
+# [![My Skills](https://skillicons.dev/icons?i=cs)](https://skillicons.dev) What is C#?
 C# (pronounced "C-sharp") is a modern, object-oriented programming language developed by Microsoft. It’s widely used for building Windows applications, web apps, games, and more. C# is easy to learn, especially for beginners, and works seamlessly with .NET Framework tools like Windows Forms. In this project, C# handles the logic behind the login form.
 
-# What is .NET Framework?
+# [![My Skills](https://skillicons.dev/icons?i=dotnet)](https://skillicons.dev) What is .NET Framework?
 .NET Framework is a development platform created by Microsoft. It provides a collection of tools, libraries, and languages (like C#) to build applications for desktop, web, and mobile. In this project, .NET Framework supports the Windows Forms library and helps run the application on Windows machines.
 
 # What is API?
