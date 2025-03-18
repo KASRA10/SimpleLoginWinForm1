@@ -1,5 +1,8 @@
-# 📸 Project View
+# 📸 Image Project View
 ![ProjectView-K10](https://github.com/user-attachments/assets/b7741a71-f61f-44f2-a15c-03aae92f1f1b)
+
+# 🎥 Video Project View
+https://github.com/user-attachments/assets/2f206300-c23f-4166-92ae-725bf98e2b5d
 
 # Windows Form Login Project
 A simple Windows Form application built in C# to practice basic login functionality using if conditions. This is a beginner-level training project to explore C# and Windows Forms in .NET Framework.
