@@ -7,3 +7,9 @@ E:\WORKSPACE\simple_login_windows_win_form\simpleLoginWindows\simpleLoginWindows
 E:\WORKSPACE\simple_login_windows_win_form\simpleLoginWindows\simpleLoginWindows\obj\Debug\simpleLoginWindows.csproj.CoreCompileInputs.cache
 E:\WORKSPACE\simple_login_windows_win_form\simpleLoginWindows\simpleLoginWindows\obj\Debug\simpleLoginWindows.exe
 E:\WORKSPACE\simple_login_windows_win_form\simpleLoginWindows\simpleLoginWindows\obj\Debug\simpleLoginWindows.pdb
+E:\WORKSPACE\simple_login_windows_win_form\simpleLoginWindows\simpleLoginWindows\obj\Debug\simpleLoginWindows.LoginForm.resources
+E:\WORKSPACE\simple_login_windows_win_form\simpleLoginWindows\simpleLoginWindows\bin\Debug\Newtonsoft.Json.dll
+E:\WORKSPACE\simple_login_windows_win_form\simpleLoginWindows\simpleLoginWindows\bin\Debug\Newtonsoft.Json.xml
+E:\WORKSPACE\simple_login_windows_win_form\simpleLoginWindows\simpleLoginWindows\obj\Debug\simpleLo.990AB7E0.Up2Date
+E:\WORKSPACE\simple_login_windows_win_form\simpleLoginWindows\simpleLoginWindows\obj\Debug\simpleLoginWindows.UserProfile_FRM.resources
+E:\WORKSPACE\simple_login_windows_win_form\simpleLoginWindows\simpleLoginWindows\obj\Debug\simpleLoginWindows.Windows.WaitingForm.resources

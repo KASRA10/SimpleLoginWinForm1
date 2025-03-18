@@ -26,5 +26,8 @@ namespace simpleLoginWindows.Properties
 				return defaultInstance;
 			}
 		}
+
+		public string SavedUserName { get; internal set; }
+		public string SavedUserEmail { get; internal set; }
 	}
 }
