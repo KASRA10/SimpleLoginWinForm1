@@ -1,0 +1,9 @@
+E:\WORKSPACE\simple_login_windows_win_form\simpleLoginWindows\simpleLoginWindows\bin\Debug\simpleLoginWindows.exe.config
+E:\WORKSPACE\simple_login_windows_win_form\simpleLoginWindows\simpleLoginWindows\bin\Debug\simpleLoginWindows.exe
+E:\WORKSPACE\simple_login_windows_win_form\simpleLoginWindows\simpleLoginWindows\bin\Debug\simpleLoginWindows.pdb
+E:\WORKSPACE\simple_login_windows_win_form\simpleLoginWindows\simpleLoginWindows\obj\Debug\simpleLoginWindows.csproj.AssemblyReference.cache
+E:\WORKSPACE\simple_login_windows_win_form\simpleLoginWindows\simpleLoginWindows\obj\Debug\simpleLoginWindows.Properties.Resources.resources
+E:\WORKSPACE\simple_login_windows_win_form\simpleLoginWindows\simpleLoginWindows\obj\Debug\simpleLoginWindows.csproj.GenerateResource.cache
+E:\WORKSPACE\simple_login_windows_win_form\simpleLoginWindows\simpleLoginWindows\obj\Debug\simpleLoginWindows.csproj.CoreCompileInputs.cache
+E:\WORKSPACE\simple_login_windows_win_form\simpleLoginWindows\simpleLoginWindows\obj\Debug\simpleLoginWindows.exe
+E:\WORKSPACE\simple_login_windows_win_form\simpleLoginWindows\simpleLoginWindows\obj\Debug\simpleLoginWindows.pdb
