@@ -13,6 +13,12 @@ C# (pronounced "C-sharp") is a modern, object-oriented programming language deve
 # What is .NET Framework?
 .NET Framework is a development platform created by Microsoft. It provides a collection of tools, libraries, and languages (like C#) to build applications for desktop, web, and mobile. In this project, .NET Framework supports the Windows Forms library and helps run the application on Windows machines.
 
+# What is API?
+An API (Application Programming Interface) is a set of rules and tools that allows different software applications to communicate with each other. It acts as an intermediary between different systems, enabling them to share data or functionality. For example, an API could be used to fetch user data from a server to enhance this login project.
+
+# What is JSONPlaceholder?
+[JSONPlaceholder](https://jsonplaceholder.typicode.com) is a free online REST API that provides fake data for testing and prototyping. It’s a useful resource for developers to simulate real-world API interactions without setting up a backend. You can use it to practice fetching data (e.g., user info) in JSON format, which could be integrated into projects like this one.
+
 # Contributions
 Feel free to fork this project, experiment with it, and make it your own! Contributions are welcome—whether you want to add features, improve the code, or fix bugs. Here are some ideas to get started:
 
